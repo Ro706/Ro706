@@ -1,5 +1,5 @@
 <h1 align="center">Hello i m Ro706</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">from India (★_★)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ro404&label=Profile%20views&color=0e75b6&style=flat" alt="ro404" /> </p>
 
