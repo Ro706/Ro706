@@ -1,7 +1,7 @@
 <h1 align="center">Ro706</h1>
 <h3 align="center">from India (★_★)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ro404&label=Profile%20views&color=0e75b6&style=flat" alt="ro404" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ro706&label=Profile%20views&color=0e75b6&style=flat" alt="ro706" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ro706" alt="ro706" /></a> </p>
 
