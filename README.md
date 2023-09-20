@@ -29,4 +29,4 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"  />
+<center><img align="right" height="150" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"  /><center/>
