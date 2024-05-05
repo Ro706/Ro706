@@ -16,5 +16,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ro706&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Snake
-![snake gif](https://github.com/Ro706/Ro706/blob/output/github-contribution-grid-snake.svg)
