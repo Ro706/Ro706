@@ -24,7 +24,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### Hackoctoberfest
-![Hackoctober-fest-2024](https://github.com/user-attachments/assets/19814559-a18b-4892-9c3b-b9e6d89db657)
+<img src="https://github.com/user-attachments/assets/19814559-a18b-4892-9c3b-b9e6d89db657" width="20%" hight="20%">
 
 
 
