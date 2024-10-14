@@ -27,5 +27,5 @@
 <img src="https://github.com/user-attachments/assets/19814559-a18b-4892-9c3b-b9e6d89db657" width="20%" hight="20%">
 
 
-
+[![Davide's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ro706&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
