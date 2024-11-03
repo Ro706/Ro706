@@ -27,5 +27,10 @@
 <img src="https://github.com/user-attachments/assets/19814559-a18b-4892-9c3b-b9e6d89db657" width="20%" hight="20%">
 <img src="https://github.com/user-attachments/assets/6dbd7542-acdd-4615-9978-7f94a3fc1b81" width="20%" hight="20%">
 
+### 🎩RedHat
+<img src ="https://github.com/user-attachments/assets/a1ea8cb7-6740-4203-bcdc-ce1eb7dab87c" width="20%" hight="20%">
+
+
+
 [![Davide's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ro706&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
