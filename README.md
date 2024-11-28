@@ -30,6 +30,9 @@
 ### 🎩RedHat
 <img src ="https://github.com/user-attachments/assets/a1ea8cb7-6740-4203-bcdc-ce1eb7dab87c" width="20%" hight="20%">
 
+### DEVFEST 2024
+<img src ="https://github.com/user-attachments/assets/a8b65099-4568-44d1-8ddd-319790b0a834" width="20%" hight="20%">
+
 
 
 [![Davide's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ro706&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph)
