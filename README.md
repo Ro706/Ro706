@@ -32,7 +32,6 @@
 
 ### DEVFEST 2024
 <img src ="https://github.com/user-attachments/assets/a8b65099-4568-44d1-8ddd-319790b0a834" width="20%" hight="20%">
-<img src ="https://github.com/user-attachments/assets/03baf198-c8ef-4e65-8457-5642fc2a033e" width="20%" hight="20%">
 <img src ="https://github.com/user-attachments/assets/0fe34e17-6b9e-4d2a-9c38-cb6a82efa5d2" width="20%" hight="20%">
 <img src ="https://github.com/user-attachments/assets/25a40b07-40d8-4144-91cd-6f5db385e45f" width="20%" hight="20%">
 <img src ="https://github.com/user-attachments/assets/6b3a6237-c487-4708-8fa1-824491f2b1d9" width="20%" hight="20%">
