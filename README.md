@@ -30,6 +30,10 @@
 ### 🎩RedHat
 <img src ="https://github.com/user-attachments/assets/a1ea8cb7-6740-4203-bcdc-ce1eb7dab87c" width="20%" hight="20%">
 
+### AWS☁️
+<img src="https://github.com/user-attachments/assets/ff19c7e6-be6d-4a80-8d3b-e65af509218f" width="20%" hight="20%">
+
+
 ### DEVFEST 2024
 <img src ="https://github.com/user-attachments/assets/a8b65099-4568-44d1-8ddd-319790b0a834" width="20%" hight="20%">
 <img src ="https://github.com/user-attachments/assets/0fe34e17-6b9e-4d2a-9c38-cb6a82efa5d2" width="20%" hight="20%">
