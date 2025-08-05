@@ -38,6 +38,7 @@
 
 ### IBM
 <img width="20%" height="20%" alt="Digital Sticker_ Introduction to Retrieval-Augmented Generation" src="https://github.com/user-attachments/assets/ea6cb9c5-a8ce-43ab-b934-7532f4a3c401" />
+<img width="20%" height="20%" alt="Digital sticker_Ethical Considerations for Generative AI" src="https://github.com/user-attachments/assets/ae6836bd-429d-4482-abd8-d97bbbf403c5" />
 
 
 ### DEVFEST 2024
