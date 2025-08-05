@@ -36,6 +36,10 @@
 <img src="https://github.com/user-attachments/assets/ff19c7e6-be6d-4a80-8d3b-e65af509218f" width="20%" hight="20%">
 <img src="https://github.com/user-attachments/assets/e5ea328f-a261-48f1-aa34-ea7f49efd0e3" width="20%" hight="20%">
 
+### IBM
+<img width="2000" height="2000" alt="Digital Sticker_ Introduction to Retrieval-Augmented Generation" src="https://github.com/user-attachments/assets/ea6cb9c5-a8ce-43ab-b934-7532f4a3c401" />
+
+
 ### DEVFEST 2024
 <img src ="https://github.com/user-attachments/assets/a8b65099-4568-44d1-8ddd-319790b0a834" width="20%" hight="20%">
 <img src ="https://github.com/user-attachments/assets/0fe34e17-6b9e-4d2a-9c38-cb6a82efa5d2" width="20%" hight="20%">
