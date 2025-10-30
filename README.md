@@ -35,8 +35,11 @@
 ### AWS☁️
 <img src="https://github.com/user-attachments/assets/ff19c7e6-be6d-4a80-8d3b-e65af509218f" width="20%" hight="20%">
 <img src="https://github.com/user-attachments/assets/e5ea328f-a261-48f1-aa34-ea7f49efd0e3" width="20%" hight="20%">
+<img src="https://github.com/user-attachments/assets/b6a69987-f9aa-4aa6-9ba6-3bd3f56e88a2" width="20%" hight="20%">
+
 
 ### IBM
+
 <img width="20%" height="20%" alt="Digital Sticker_ Introduction to Retrieval-Augmented Generation" src="https://github.com/user-attachments/assets/ea6cb9c5-a8ce-43ab-b934-7532f4a3c401" />
 <img width="20%" height="20%" alt="Digital sticker_Ethical Considerations for Generative AI" src="https://github.com/user-attachments/assets/ae6836bd-429d-4482-abd8-d97bbbf403c5" />
 
