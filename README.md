@@ -50,5 +50,4 @@
 <img src ="https://github.com/user-attachments/assets/25a40b07-40d8-4144-91cd-6f5db385e45f" width="20%" hight="20%">
 <img src ="https://github.com/user-attachments/assets/6b3a6237-c487-4708-8fa1-824491f2b1d9" width="20%" hight="20%">
 
-[![Davide's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ro706&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ro706&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
