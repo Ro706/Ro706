@@ -1,7 +1,11 @@
 <img src="pixel-jeff-matrix-s.gif">
 
 ---
-<img align="center" height="150" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+<p align="left">
+  <img height="250" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
+  <img height="550" src="https://github.com/user-attachments/assets/fd453212-f735-4b27-91fe-322539b8e724" />
+</p>
+
 
 > Great power comes great responsibility  <br>
 
@@ -23,7 +27,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Ro706&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 💻Hackoctoberfest
 <img src="https://github.com/user-attachments/assets/19814559-a18b-4892-9c3b-b9e6d89db657" width="20%" hight="20%">
@@ -43,6 +49,7 @@
 <img width="20%" height="20%" alt="Digital Sticker_ Introduction to Retrieval-Augmented Generation" src="https://github.com/user-attachments/assets/ea6cb9c5-a8ce-43ab-b934-7532f4a3c401" />
 <img width="20%" height="20%" alt="Digital sticker_Ethical Considerations for Generative AI" src="https://github.com/user-attachments/assets/ae6836bd-429d-4482-abd8-d97bbbf403c5" />
 
+<img width="20%" hight="20%" src="https://github.com/user-attachments/assets/68ac257f-e26a-488b-8159-27bbd4880eee"/>
 
 ### DEVFEST 2024
 <img src ="https://github.com/user-attachments/assets/a8b65099-4568-44d1-8ddd-319790b0a834" width="20%" hight="20%">
@@ -51,3 +58,4 @@
 <img src ="https://github.com/user-attachments/assets/6b3a6237-c487-4708-8fa1-824491f2b1d9" width="20%" hight="20%">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ro706&bg_color=000000&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
