@@ -3,7 +3,7 @@
 ---
 <p align="left">
   <img height="250" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
-  <img height="550" src="https://github.com/user-attachments/assets/fd453212-f735-4b27-91fe-322539b8e724" />
+  <img height="20%" src="https://github.com/user-attachments/assets/fd453212-f735-4b27-91fe-322539b8e724" />
 </p>
 
 
