@@ -43,6 +43,14 @@
 <img src="https://github.com/user-attachments/assets/e5ea328f-a261-48f1-aa34-ea7f49efd0e3" width="20%" hight="20%">
 <img src="https://github.com/user-attachments/assets/b6a69987-f9aa-4aa6-9ba6-3bd3f56e88a2" width="20%" hight="20%">
 
+### Google Cloud ☁️
+<img width="20%" height="20%" alt="google-cloud-computing-foundations-certificate" src="https://github.com/user-attachments/assets/d0d2d664-154d-43ad-8299-12a053c72272" />
+<img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/99de4404-2e05-43ec-97c7-d5245fb3e3a2" />
+<img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/720ffe29-1930-46f2-b908-a2b4b9944920" />
+<img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/12ef0842-baa9-47ed-a795-87559609d3d4" />
+<img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/67b5171d-5a4d-4701-9abc-4abdf2d7af0b" />
+
+Google Cloud Skills Portfolio : [skills.google/public_profiles/132e9469-d807-4cee-884a-d1775a2ccb78](https://www.skills.google/public_profiles/132e9469-d807-4cee-884a-d1775a2ccb78)
 
 ### IBM
 
