@@ -57,5 +57,10 @@
 <img src ="https://github.com/user-attachments/assets/25a40b07-40d8-4144-91cd-6f5db385e45f" width="20%" hight="20%">
 <img src ="https://github.com/user-attachments/assets/6b3a6237-c487-4708-8fa1-824491f2b1d9" width="20%" hight="20%">
 
+### Github Badge
+<img width="20%" hight="30%" alt="image" src="https://github.com/user-attachments/assets/b92efc85-f495-4149-bcbd-d9b3cc9728b4" />
+<img width="20%" hight="30%" alt="image" src="https://github.com/user-attachments/assets/9a6d8685-2b8c-4cc9-ba33-63dba5aa31de" />
+
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ro706&bg_color=000000&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
