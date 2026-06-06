@@ -48,7 +48,6 @@
 <img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/99de4404-2e05-43ec-97c7-d5245fb3e3a2" />
 <img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/720ffe29-1930-46f2-b908-a2b4b9944920" />
 <img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/12ef0842-baa9-47ed-a795-87559609d3d4" />
-<img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/67b5171d-5a4d-4701-9abc-4abdf2d7af0b" />
 
 Google Cloud Skills Portfolio : [skills.google/public_profiles/132e9469-d807-4cee-884a-d1775a2ccb78](https://www.skills.google/public_profiles/132e9469-d807-4cee-884a-d1775a2ccb78)
 
